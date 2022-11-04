@@ -1,0 +1,31 @@
+.info {
+    margin-bottom: 44px;
+}
+
+.info__h {
+    font-family: 'RB';
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 19px;
+    color: #686868;
+    margin-bottom: 22px;
+}
+.info__desc{
+    max-width: 825px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 15px;
+}
+.info__desc-p{
+    font-family: 'RB';
+font-size: 16px;
+font-weight: 400;
+line-height: 19px;
+color:#545454;
+background: #fff;
+padding: 15px;
+border-radius: 8px;
+}
